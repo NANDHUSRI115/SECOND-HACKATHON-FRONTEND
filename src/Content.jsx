@@ -32,7 +32,7 @@ function Content() {
 
           <div className='col-md-6'>
             <img
-              src='https://media.istockphoto.com/vectors/isometric-vector-illustration-customer-relationship-management-and-vector-id1156629606'
+              src='https://img.freepik.com/free-vector/flat-concept-email-marketing-with-people-sending-advertising-messages-reaching-target-audience-vector-illustration_1284-75468.jpg?w=1060&t=st=1678955128~exp=1678955728~hmac=c144c8bf8b42eb6e617fc903a7e9562b60012fa54858f8ef70c5b7e71dcbcfaf'
               style={{ width: '100%', height: '85vh' }}
             ></img>
           </div>
